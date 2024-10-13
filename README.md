@@ -26,9 +26,9 @@ Ce projet vise à optimiser les paramètres de la politique de vacances à deux 
    . Optimiser les paramètres en sélectionnant l'algorithme souhaité.
 
 #Technologies Utilisées
-  . Langage : Python
-  . Framework : tkinter pour l'interface graphique
-  . Algorithmes d'optimisation : Recuit simulé, Recherche Tabou, PSO
+  1. Langage : Python
+  2. Framework : tkinter pour l'interface graphique
+  3. Algorithmes d'optimisation : Recuit simulé, Recherche Tabou, PSO
 
 #Contribuer
-Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer ce projet, n'hésitez pas à soumettre une pull request ou à ouvrir une issue.
+- Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer ce projet, n'hésitez pas à soumettre une pull request ou à ouvrir une issue.
