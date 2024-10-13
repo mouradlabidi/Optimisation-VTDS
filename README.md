@@ -1,6 +1,6 @@
 # Optimisation des Paramètres de la Politique de Vacances à Deux Seuils (VTDS)
 
-Ce projet vise à optimiser les paramètres de la politique de vacances à deux seuils (VTDS) pour réduire la consommation d'énergie des capteurs tout en minimisant le délai d'attente dans les réseaux de capteurs sans fil (WSN). Il inclut une interface graphique permettant d'évaluer les performances de différentes configurations de paramètres et d'optimiser ces paramètres en utilisant plusieurs algorithmes de résolution.
+Ce projet de fin d'étude vise à optimiser les paramètres de la politique de vacances à deux seuils (VTDS) pour réduire la consommation d'énergie des capteurs tout en minimisant le délai d'attente dans les réseaux de capteurs sans fil (WSN). Il inclut une interface graphique permettant d'évaluer les performances de différentes configurations de paramètres et d'optimiser ces paramètres en utilisant plusieurs algorithmes de résolution.
 
 #Fonctionnalités
 - Évaluation des paramètres : Calcule le délai d'attente et l'énergie consommée par un capteur avec une configuration donnée.
