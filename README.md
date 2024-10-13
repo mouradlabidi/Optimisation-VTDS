@@ -12,7 +12,7 @@ Ce projet vise à optimiser les paramètres de la politique de vacances à deux 
 
 #Installation
 1. Clonez le repository sur votre machine locale :
-   git clone https://github.com/ton-utilisateur/Optimisation-VTDS.git
+   git clone https://github.com/mouradlabidi/Optimisation-VTDS.git
 2. Naviguez dans le répertoire du projet :
    cd Optimisation-VTDS
 3. Installez les dépendances nécessaires (par exemple, pour Python, si applicable) :
